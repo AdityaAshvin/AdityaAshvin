@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/aditya.ashvin/">
   <img align="left" alt="Aditya Ashvin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.quora.com/profile/Aastha-Mehta-11">
-  <img align="left" alt="Aditya Ashvin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
-</a>
 <a href="https://adityaashvin.github.io/Personal_website.github.io/">
   <img align="left" alt="Aditya Ashvin's website" width="22px" src="https://img.icons8.com/fluent/48/000000/domain.png" />
 </a>
