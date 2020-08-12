@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/aditya.ashvin/">
   <img align="left" alt="Aditya Ashvin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://adityaashvin.github.io/Personal_website.github.io/">
+<a href="https://adityaashvin.github.io/">
   <img align="left" alt="Aditya Ashvin's website" width="22px" src="https://img.icons8.com/fluent/48/000000/domain.png" />
 </a>
 <a href="https://www.facebook.com/aditya.ashvin.1">
