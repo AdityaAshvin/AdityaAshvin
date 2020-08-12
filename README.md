@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 **Will be happy to Connect Here:**
 
 <a href="https://www.linkedin.com/in/aditya-ashvin-a52438197/">
-  <img align="left" alt="Aditya Ashvin's Linkdein" width="22px" src="https://img.icons8.com/color/96/000000/linkedin.png" />
+  <img align="left" alt="Aditya Ashvin's Linkdein" src="https://img.icons8.com/color/96/000000/linkedin.png" />
 </a>
 <a href="https://github.com/AdityaAshvin">
   <img align="left" alt="Aditya Ashvin's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
