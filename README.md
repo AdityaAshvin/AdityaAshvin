@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/aditya.ashvin.1">
   <img align="left" alt="Aditya Ashvin's Facebook" width="38px" src="https://img.icons8.com/fluent/96/000000/facebook-new.png" />
 </a>
+<a href="mailto:adityaashvin2@gmail.com">
+  <img align="left" alt="Aditya Ashvin's Gmail" width="38px" src="https://img.icons8.com/color/96/000000/gmail.png" />
+</a>
