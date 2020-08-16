@@ -33,4 +33,6 @@
 <a href="mailto:adityaashvin2@gmail.com">
   <img align="left" alt="Aditya Ashvin's Gmail" width="38px" src="https://img.icons8.com/color/96/000000/gmail.png" />
 </a>
-
+<a href="https://twitter.com/AshvinAditya">
+  <img align="left" alt="Aditya Ashvin's Twitter" width="38px" src="https://img.icons8.com/color/96/000000/twitter.png" />
+</a>
