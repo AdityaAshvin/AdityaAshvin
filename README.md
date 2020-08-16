@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaAshvin&hide=issues&count_private=true&show_icons=true)
+
 **Will be happy to Connect Here:**
 
 <a href="https://www.linkedin.com/in/aditya-ashvin-a52438197/">
@@ -39,4 +41,3 @@ Here are some ideas to get you started:
   <img align="left" alt="Aditya Ashvin's Gmail" width="38px" src="https://img.icons8.com/color/96/000000/gmail.png" />
 </a>
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaAshvin)
