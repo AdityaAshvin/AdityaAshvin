@@ -20,8 +20,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png"  alt="java" width="40" height="40"/>
 <img src="https://img.icons8.com/color/96/000000/android-os.png" alt="android" width="40" height="40"/>
-<img src="https://img.icons8.com/fluent/48/000000/visual-studio-2019.png" alt="vscode" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-xd.png" alt="adobexd" width="40" height="40"/>
+<img src="https://img.icons8.com/fluent/96/000000/visual-studio-2019.png" alt="vscode" width="40" height="40"/>
+<img src="https://img.icons8.com/color/96/000000/adobe-xd.png" alt="adobexd" width="40" height="40"/>
 <br>
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaAshvin&hide=issues&count_private=true&show_icons=true&theme=chartreuse-dark)
