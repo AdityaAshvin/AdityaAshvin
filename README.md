@@ -54,3 +54,8 @@
 <a href="https://twitter.com/AshvinAditya">
   <img align="left" alt="Aditya Ashvin's Twitter" width="38px" src="https://img.icons8.com/color/96/000000/twitter.png" />
 </a>
+<a href="https://www.hackerrank.com/AdityaAshvin?hr_r=1">
+  <img align="left" alt="Aditya Ashvin's Twitter" width="38px" src="https://img.icons8.com/windows/96/000000/hackerrank.png" />
+</a>
+
+
