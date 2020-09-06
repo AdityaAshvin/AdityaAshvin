@@ -23,7 +23,7 @@
 <img src="https://img.icons8.com/color/96/000000/adobe-xd.png" alt="adobexd" width="40" height="40"/>
 <br>
 
-**GitHub Stats
+**GitHub Stats**
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaAshvin&hide=issues&count_private=true&show_icons=true&theme=chartreuse-dark)
 
