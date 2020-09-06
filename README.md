@@ -27,7 +27,7 @@
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaAshvin&hide=issues&count_private=true&show_icons=true&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAshvin&layout=compact&hide=css&hide=html&hide=js)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAshvin&layout=compact&hide=css,html,javasript)
 
 ![](https://komarev.com/ghpvc/?username=AdityaAshvin&color=brightgreen&style=flat-square)
 
