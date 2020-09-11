@@ -29,7 +29,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAshvin&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=AdityaAshvin&color=brightgreen&style=flat-square)
+![profile views](https://komarev.com/ghpvc/?username=AdityaAshvin&color=brightgreen&style=flat-square)
 
 **Will be happy to Connect Here:**
 
