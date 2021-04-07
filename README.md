@@ -1,6 +1,5 @@
 ### Hey 👋, I am Aditya Ashvin
 
-## A man of mystery and power whose power is exceeded only by his mystery :sunglasses:
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on any Django related project.
 - 💬 Ask me about Python, Java and Android
