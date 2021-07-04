@@ -35,9 +35,6 @@
 <a href="https://www.linkedin.com/in/aditya-ashvin-a52438197/">
   <img align="left" alt="Aditya Ashvin's Linkdein" width="38px" src="https://img.icons8.com/color/96/000000/linkedin.png" />
 </a>
-<a href="https://github.com/AdityaAshvin">
-  <img align="left" alt="Aditya Ashvin's Github" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
 <a href="https://t.me/aditya_ashvin16">
   <img align="left" alt="Aditya Ashvin's Telegram" width="38px" src="https://img.icons8.com/fluent/96/000000/telegram-app.png" />
 </a>
@@ -57,7 +54,7 @@
   <img align="left" alt="Aditya Ashvin's Twitter" width="38px" src="https://img.icons8.com/color/96/000000/twitter.png" />
 </a>
 <a href="https://www.hackerrank.com/AdityaAshvin?hr_r=1">
-  <img align="left" alt="Aditya Ashvin's Twitter" width="38px" src="https://img.icons8.com/windows/96/000000/hackerrank.png" />
+  <img align="left" alt="Aditya Ashvin's Hackerrank" width="38px" src="https://img.icons8.com/windows/96/000000/hackerrank.png" />
 </a>
 
 
