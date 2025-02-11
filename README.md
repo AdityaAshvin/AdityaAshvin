@@ -24,7 +24,7 @@
 
 **GitHub Stats**
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaAshvin&count_private=true&show_icons=true&theme=chartreuse-dark)
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaAshvin&count_private=true&theme=chartreuse-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaAshvin&layout=compact)
 
